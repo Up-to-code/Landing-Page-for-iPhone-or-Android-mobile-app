@@ -5,7 +5,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 ![Screenshot](Cover.png)
 
-[alt Cover](https://github.com/Up-to-code/Landing-Page-for-iPh…Android-mobile-app/blob/master/Cover.png?raw=true)
 ```bash
 npm run dev
 # or
