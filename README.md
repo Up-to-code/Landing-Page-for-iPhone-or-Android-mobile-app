@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
-
+![Screenshot](Cover.png)
 
 [alt Cover](https://github.com/Up-to-code/Landing-Page-for-iPh…Android-mobile-app/blob/master/Cover.png?raw=true)
 ```bash
